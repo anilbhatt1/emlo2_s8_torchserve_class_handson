@@ -1,0 +1,1 @@
+/home/ubuntu/emlo2_s8_torchserve_class_handson/logs/train/runs/2023-10-31_10-12-36/model.script.pt
